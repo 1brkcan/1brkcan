@@ -1,4 +1,3 @@
-[![MasterHead](http:https://www.innovamedya.com/wp-content/uploads/2020/07/web-programlama.jpg)
 <h1 align="center">Merhaba, ben Burakcan Bayramoğlu</h1>
 <h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
 
